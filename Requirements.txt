@@ -1,0 +1,10 @@
+Requirements.
+
+-gradio
+-transformers
+-torch
+-reportlab
+-requests
+-black
+-autopep8
+-ast-super-parser
